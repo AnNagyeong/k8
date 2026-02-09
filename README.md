@@ -1,2 +1,2 @@
-# k8
+# k8s
 Kubernetes Installation and Study records
